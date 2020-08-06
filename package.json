@@ -1,0 +1,23 @@
+{
+  "name": "developer-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Triad-Behavioral-Health/developer-assessment-template.git"
+  },
+  "author": "Zack Bessler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Triad-Behavioral-Health/developer-assessment-template/issues"
+  },
+  "homepage": "https://github.com/Triad-Behavioral-Health/developer-assessment-template#readme",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-router": "^9.1.0"
+  }
+}
